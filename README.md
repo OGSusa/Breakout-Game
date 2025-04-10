@@ -25,7 +25,7 @@ A classic Breakout-style arcade game built using Python and Pygame. Destroy bloc
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/your-username/breakout-game.git
+git clone https://github.com/OGSusa/breakout-game.git
 cd breakout-game
 ```
 
