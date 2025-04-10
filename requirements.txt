@@ -1,0 +1,1 @@
+pygamepygame==2.6.1
